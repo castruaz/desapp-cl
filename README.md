@@ -9,3 +9,7 @@ Correo: castr@uaz.edu.mx
 - p02-paga-trabajador
 - p03-venta-pizza
 
+## Actividad 2
+- p04-procesa-calificaciones
+- p05-tabla-de-conversion
+- p06-factorial-numeros
