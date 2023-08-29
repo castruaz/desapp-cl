@@ -13,3 +13,6 @@ Correo: castr@uaz.edu.mx
 - p04-procesa-calificaciones
 - p05-tabla-de-conversion
 - p06-factorial-numeros
+
+## Actividad 3
+- p07-estadisticas
